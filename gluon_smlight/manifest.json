@@ -1,0 +1,6 @@
+{
+    "domain": "gluon_smlight",
+    "name": "Antenna reset",
+    "iot_class": "local_push",
+    "version": "0.1.0"
+}
