@@ -4,6 +4,9 @@
 **Domain:** `gluon_smlight`  
 This custom component for Home Assistant provides the ability to reset antennas by making HTTP requests to specific endpoints.
 
+Controlling SMLIGHT SLZB-06 and SMLIGHT SLZB-06M network coordinators
+
+
 ## Features
 - Adds two services to Home Assistant for resetting antennas: `antenna_1a_Zigbee` and `antenna_1a_ESP32`.
 - Uses basic HTTP authentication to securely access the antenna reset endpoints.
